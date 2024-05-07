@@ -22,4 +22,4 @@ Prazer, me chamo Caio atuo na área de TI desde 2021, recém graduado em Anális
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
