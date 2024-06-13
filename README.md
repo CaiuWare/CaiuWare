@@ -15,7 +15,7 @@ Neste portfólio, você encontrará uma variedade de projetos que demonstram min
 
 <div align="center">
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,css,html,markdown,sql)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,css,html,markdown)](https://skillicons.dev)
 
 </div>
 
