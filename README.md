@@ -4,7 +4,7 @@
 
 </h1>
 <h4 align="center">
-Meu nome é Caio e sou um desenvolvedor Full Stack Júnior. Sou apaixonado por resolver problemas e aprender novas tecnologias. 
+Meu nome é Caio e sou um desenvolvedor Full Stack. Sou apaixonado por resolver problemas e aprender novas tecnologias. 
 
 Neste portfólio, você encontrará uma variedade de projetos que demonstram minha jornada de aprendizado e crescimento como desenvolvedor Full Stack. Sinta-se à vontade para explorar e deixar qualquer feedback. 
 </h4>
