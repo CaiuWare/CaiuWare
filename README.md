@@ -21,7 +21,7 @@
 
 <div>
     <width="50%"><br>
-    <img width="300" src="https://github.com/CaiuWare/assets/blob/main/dev-setup.gif">
+    <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div></br>
 </div> 
 
@@ -33,15 +33,15 @@
   <tr>
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
-      <img width="230" src="https://github.com/CaiuWare/assets/blob/main/caio-sword.jpeg">
+      <img width="230" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/caio-sword.jpeg">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/output/github-contribution-grid-snake.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
         <img width="100%" alt="GitHub contribution grid snake animation"
              src="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
       </picture><br><br>
       <div align="center">
-        <a href="https://github.com/CaiuWare"> 
+        <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
         <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=cobalt"/>
       </div><br>
 
