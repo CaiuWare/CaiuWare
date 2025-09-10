@@ -27,7 +27,10 @@
   <tr>
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
-      <img width="230" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/caio-sword.jpeg">
+      <video width="400" controls>
+        <source src="https://github.com/CaiuWare/images/blob/main/14329150_3840_2160_24fps.mp4" type="video/mp4">
+        Seu navegador não suporta vídeos.
+      </video>      
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
