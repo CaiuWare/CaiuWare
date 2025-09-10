@@ -14,6 +14,10 @@
 > _I love the full cycle of development — from idea to release — and I always strive to deliver **impactful and reliable software**._ ⚡
 
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaiuWare&theme=github-dark&hide_border=true&area=true" width="100%">
 </div> 
 
 ##
@@ -44,18 +48,6 @@
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
           <img width="400" src="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
         </picture>
-        <!-- Activity Graph -->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaiuWare&theme=github-dark&hide_border=true&area=true" width="100%">
-        <!-- Streak Stats -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CaiuWare&theme=dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=CaiuWare&theme=default&hide_border=true">
-          <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=CaiuWare&theme=dark&hide_border=true">
-        </picture>
-        <!-- Trophy -->
-        <img src="https://github-profile-trophy.vercel.app/?username=CaiuWare&theme=darkhub&no-frame=true&column=7" width="100%">
-        <!-- 3D Contributions -->
-        <img src="https://github-profile-3d-contributions.vercel.app/profile?username=CaiuWare&theme=dark&column=7" width="100%">
       </div><br>
 
 <div align="center">
