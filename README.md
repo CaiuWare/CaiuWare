@@ -98,4 +98,13 @@
 
 ##
 
-<i>"We who are strong ought to bear with the failings of the weak and not to please ourselves." - Romans 15:1</i><br> <br>
+<div align="center">
+  
+  ### ✨ **Inspiration**
+  
+  <blockquote>
+    <i>"We who are strong ought to bear with the failings of the weak and not to please ourselves."</i><br>
+    <strong>— Romans 15:1</strong>
+  </blockquote>
+  
+</div>
