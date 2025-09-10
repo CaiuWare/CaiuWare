@@ -16,10 +16,6 @@
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaiuWare&theme=github-dark&hide_border=true&area=true" width="100%">
-</div> 
-
 ##
 
 <b>🖥️ Contributions & Stats: </b>
@@ -36,18 +32,27 @@
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
-        <!-- Top Languages -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=default">
-          <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
-        </picture>
-        <!-- GitHub Stats -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-          <img width="400" src="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
-        </picture>
+        <table>
+          <tr>
+            <td width="50%">
+              <!-- Top Languages -->
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
+                <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=default">
+                <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
+              </picture>
+            </td>
+            <td width="50%">
+              <!-- GitHub Stats -->
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+                <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
+              </picture>
+            </td>
+          </tr>
+        </table>
+        
       </div><br>
 
 <div align="center">
