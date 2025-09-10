@@ -4,9 +4,10 @@
 <table width="100%"> 
 
 <div>
-<h3>Welcome to my profile! I'm Caio.</h3>  
+<div align="center">
+<h3>Welcome to my profile! I'm Caio.</h3>
+</div>  
 
-<b>What I Do & How I Work 🚀</b>
 
 > _Hi! I'm Caio, a Full Stack Developer passionate about building real, working applications._ <br/>
 > _I create solutions across the stack: **front-end with React & Next.js**, **back-end with Node.js, Fastify, and NestJS**, and **databases like SQLite, PostgreSQL, and Oracle**._ <br/>
