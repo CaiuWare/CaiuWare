@@ -39,6 +39,7 @@
 <b>🪄 Tech Stack</b><br><br>
 
 <div align="center">
+  <img align="center" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="TypeScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Node.js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
@@ -51,7 +52,6 @@
   <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="HTML5" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> <br><br>
   <img align="center" alt="azure" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="sql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
