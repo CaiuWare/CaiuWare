@@ -27,7 +27,9 @@
   <tr>
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
-      <img src="https://github.com/CaiuWare/assets/blob/main/dev-setup.gif" width="300">      
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
+      </div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
