@@ -26,7 +26,7 @@
   <tr>
     <td width="60%" align="center">
       <div align="center">
-        <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
+        <a href="https://github.com/CaiuWare">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=default">
