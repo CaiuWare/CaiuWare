@@ -23,7 +23,6 @@
 <table>
   <tr>
     <td width="60%" align="center">
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
@@ -32,14 +31,11 @@
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
-        <!-- Top Languages -->
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=default">
           <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
         </picture>
-        
-        <!-- GitHub Stats -->
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true">
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CaiuWare&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
