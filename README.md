@@ -28,7 +28,7 @@
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
       <div align="center">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzgzbG9ubHA5ZXA1dmkyYzhkcGNxbWdwcDd6bng3ZzllYnZzaGI5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="600" alt="coding gif">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzgzbG9ubHA5ZXA1dmkyYzhkcGNxbWdwcDd6bng3ZzllYnZzaGI5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="200" alt="coding gif">
       </div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
