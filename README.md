@@ -70,7 +70,7 @@
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="emma-swoboda-B9fkw_aO6fo-unsplash.jpg">
+      <img width="100%" src="images/emma-swoboda-B9fkw_aO6fo-unsplash.jpg">
     </td>
   </tr>
 </table>
