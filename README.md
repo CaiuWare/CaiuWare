@@ -6,13 +6,18 @@
 <div>
 <h3>Welcome to my profile! I'm Caio.</h3>  
 
-<b>What am I currently working on? 🚀</b>
+<b>Projects I’ve Built / Contributed To 💻</b>
 
-> _Hi! I'm Caio, a Full Stack Developer who turns ideas into real, working applications._ <br/>
-> _I’ve built **TrackPlaces**, currently developing **Metrion**, and have experience with **websites, APIs, browser extensions, mobile apps, and databases**._ <br/>
-> _I work across the stack: **React & Next.js** for front-end, **Node.js, Fastify, and NestJS** for back-end, and **SQLite, PostgreSQL, and Oracle** for databases._ <br/>
-> _I enjoy building projects that are challenging, useful, and fun — and I like making everything clean, tested with **Vitest**, and deployable with **Docker**._ <br/>
-> _From idea to release, I like owning the full cycle of a project and delivering real value._ ⚡
+<div align="center">
+  <a href="https://trackplacestech.com.br/" target="_blank">
+    <img src="https://github.com/CaiuWare/assets/blob/main/trackplaces-logo.png" alt="TrackPlaces" width="200" style="margin:10px;">
+  </a>
+  <a href="https://metrionapp.com.br/" target="_blank">
+    <img src="https://github.com/CaiuWare/assets/blob/main/metrion-logo.png" alt="Metrion" width="200" style="margin:10px;">
+  </a>
+</div>
+
+> _I’ve built **[TrackPlaces](https://trackplacestech.com.br/)** and am currently developing **[Metrion](https://metrionapp.com.br/)**, working across web, mobile, APIs, extensions, and databases._
 
 
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
