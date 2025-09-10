@@ -8,11 +8,12 @@
 
 <b>What am I currently working on? 🚀</b>
 
-> _Hi! I'm Caio, a Full Stack Developer who loves turning ideas into real, working applications._ <br/>
-> _I build everything from sleek front-end interfaces with React and Next.js to solid back-end systems using Node.js, Fastify, and NestJS._ <br/>
-> _Clean, maintainable code, automated tests with Vitest, and smooth Docker deployments are my jam._ <br/>
-> _I enjoy creating projects that challenge me, improve my skills, and contribute to open-source._ <br/>
-> _Always learning, always coding, always optimizing — that's me in a nutshell!_ <br/>
+> _Hi! I'm Caio, a Full Stack Developer who turns ideas into real, working applications._ <br/>
+> _I’ve built **TrackPlaces**, currently developing **Metrion**, and have experience with **websites, APIs, browser extensions, mobile apps, and databases**._ <br/>
+> _I work across the stack: **React & Next.js** for front-end, **Node.js, Fastify, and NestJS** for back-end, and **SQLite, PostgreSQL, and Oracle** for databases._ <br/>
+> _I enjoy building projects that are challenging, useful, and fun — and I like making everything clean, tested with **Vitest**, and deployable with **Docker**._ <br/>
+> _From idea to release, I like owning the full cycle of a project and delivering real value._ ⚡
+
 
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div> 
