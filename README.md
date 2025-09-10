@@ -48,7 +48,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="shadcn/ui" height="30" width="40" src="https://avatars.githubusercontent.com/u/124599?s=200&v=4">
   <img align="center" alt="Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
-  <img align="center" alt="Mantine" height="30" width="40" src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/static/mantine-logo.svg">
+  <img align="center" alt="Mantine" height="30" width="40" src="https://mantine.dev/_next/static/media/mantine-logo.1a1b0b8b.svg">
   <img align="center" alt="Ant Design" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg">
   
   <br><br>
