@@ -99,6 +99,19 @@
 
 ##
 
+<b>🚀 **Projects**</b><br><br>
+
+<div align="center">
+  <a href="https://trackplacestech.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/TrackPlaces-E-commerce%20Tools-FF6B35?style=for-the-badge&logo=shopify&logoColor=white">
+  </a>
+  <a href="https://metrionapp.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Metrion-App-4CAF50?style=for-the-badge&logo=android&logoColor=white">
+  </a>
+</div><br>
+
+##
+
 <b>🌐 Social & Contact: </b>
 <div>
    <a href="https://www.linkedin.com/in/caioware/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>
