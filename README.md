@@ -25,12 +25,6 @@
 <table>
   <tr>
     <td width="60%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
-        <img width="100%" alt="GitHub contribution grid snake animation"
-             src="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
-      </picture><br><br>
       <div align="center">
         <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
         <picture>
