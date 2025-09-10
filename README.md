@@ -52,8 +52,6 @@
             </td>
           </tr>
         </table>
-        
-      </div><br>
 
 <div align="center">
 
