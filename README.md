@@ -27,8 +27,6 @@
   <tr>
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
-      <div align="center">
-      </div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
@@ -71,7 +69,7 @@
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JwZzM3bnFiOTc3ZDRiZzlpMjMxOGh0M3ptOXR2cWh0ZmcyNHA3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif" width="600" alt="coding gif">
+      <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JwZzM3bnFiOTc3ZDRiZzlpMjMxOGh0M3ptOXR2cWh0ZmcyNHA3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif" alt="coding gif">
     </td>
   </tr>
 </table>
