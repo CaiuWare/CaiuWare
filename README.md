@@ -15,10 +15,12 @@
 
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div>
-
-##
-
-<b>🖥️ Contributions & Stats: </b>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
+        <img width="100%" alt="GitHub contribution grid snake animation"
+             src="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake.svg">
+      </picture><br><br>
 
 <table>
   <tr>
