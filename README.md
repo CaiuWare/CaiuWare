@@ -28,7 +28,6 @@
     <td width="60%" align="center">
   ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹ <br>
       <div align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
       </div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaiuWare/CaiuWare/output/github-contribution-grid-snake-dark.svg">
@@ -72,7 +71,7 @@
 </div><br>
     </td>
     <td width="40%">
-      <img width="100%" src="images/emma-swoboda-B9fkw_aO6fo-unsplash.jpg">
+      <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
     </td>
   </tr>
 </table>
