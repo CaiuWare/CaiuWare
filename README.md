@@ -32,7 +32,11 @@
       </picture><br><br>
       <div align="center">
         <a href="[https://github.com/CaiuWare](https://github.com/CaiuWare)"> 
-        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=cobalt"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=default">
+          <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiuWare&layout=compact&langs_count=16&theme=dark">
+        </picture>
       </div><br>
 
 <div align="center">
