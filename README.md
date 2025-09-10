@@ -1,28 +1,22 @@
 <div>
-    <width="80%"><br>
     <img width="900" src="https://github.com/CaiuWare/assets/blob/main/tech-hero.jpeg">
-</div></br>
+</div>
 
 ๋ ࣭ ⭑๋ ࣭ ⭑ 
 <table width="100%"> 
 
-<div width="30%">    
-<h3>Welcome to my profile! I’m Caio.</h3>  
+<div>
+<h3>Welcome to my profile! I'm Caio.</h3>  
 
 <b>What am I currently working on? 🚀</b>
 
-> _Hi! I’m Caio, a Full Stack Developer who loves turning ideas into real, working applications._ <br/>
+> _Hi! I'm Caio, a Full Stack Developer who loves turning ideas into real, working applications._ <br/>
 > _I build everything from sleek front-end interfaces with React and Next.js to solid back-end systems using Node.js, Fastify, and NestJS._ <br/>
 > _Clean, maintainable code, automated tests with Vitest, and smooth Docker deployments are my jam._ <br/>
 > _I enjoy creating projects that challenge me, improve my skills, and contribute to open-source._ <br/>
-> _Always learning, always coding, always optimizing — that’s me in a nutshell!_ <br/>
+> _Always learning, always coding, always optimizing — that's me in a nutshell!_ <br/>
 
-</div>
-
-<div>
-    <width="50%"><br>
-    <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
-</div></br>
+<img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div> 
 
 ##
@@ -57,15 +51,10 @@
   <img align="center" alt="Tailwind" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Docker" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
   <img align="center" alt="Vitest" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-    <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="react" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="nodejs" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="tailwind" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="nextjs" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"> <br><br>
+  <img align="center" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="HTML5" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> <br><br>
   <img align="center" alt="azure" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="sql" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
   <img align="center" alt="git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
