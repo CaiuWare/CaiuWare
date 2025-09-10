@@ -72,7 +72,6 @@
     <div align="center">
       <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JwZzM3bnFiOTc3ZDRiZzlpMjMxOGh0M3ptOXR2cWh0ZmcyNHA3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif" alt="coding gif">
       </div>
-
     </td>
   </tr>
 </table>
