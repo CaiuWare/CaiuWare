@@ -6,13 +6,12 @@
 <div>
 <h3>Welcome to my profile! I'm Caio.</h3>  
 
-<b>What am I currently working on? 🚀</b>
+<b>What I Do & How I Work 🚀</b>
 
-> _Hi! I'm Caio, a Full Stack Developer who turns ideas into real, working applications._ <br/>
-> _I’ve built **TrackPlaces**, currently developing **Metrion**, and have experience with **websites, APIs, browser extensions, mobile apps, and databases**._ <br/>
-> _I work across the stack: **React & Next.js** for front-end, **Node.js, Fastify, and NestJS** for back-end, and **SQLite, PostgreSQL, and Oracle** for databases._ <br/>
-> _I enjoy building projects that are challenging, useful, and fun — and I like making everything clean, tested with **Vitest**, and deployable with **Docker**._ <br/>
-> _From idea to release, I like owning the full cycle of a project and delivering real value._ ⚡
+> _Hi! I'm Caio, a Full Stack Developer passionate about building real, working applications._ <br/>
+> _I create solutions across the stack: **front-end with React & Next.js**, **back-end with Node.js, Fastify, and NestJS**, and **databases like SQLite, PostgreSQL, and Oracle**._ <br/>
+> _I enjoy tackling challenging problems, writing clean and maintainable code, testing with **Vitest**, and deploying with **Docker**._ <br/>
+> _I love the full cycle of development — from idea to release — and I always strive to deliver **impactful and reliable software**._ ⚡
 
 <img width="300" src="https://github.com/CaiuWare/CaiuWare/assets/blob/main/dev-setup.gif">
 </div> 
@@ -38,7 +37,7 @@
 
 <div align="center">
 
-### 🎨 **Frontend**
+### **Stack**
 <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
 <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
 <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
@@ -49,10 +48,6 @@
 <img align="center" alt="shadcn/ui" height="30" width="40" src="https://avatars.githubusercontent.com/u/124599?s=200&v=4">
 <img align="center" alt="Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg">
 <img align="center" alt="Ant Design" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg">
-
-<br>
-
-### ⚙️ **Backend**
 <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
 <img align="center" alt="Fastify" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
@@ -63,10 +58,6 @@
 <img align="center" alt="REST API" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg">
 <img align="center" alt="Prisma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg">
 <img align="center" alt="Vitest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-
-<br>
-
-### 🛠️ **Tools & DevOps**
 <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
@@ -78,10 +69,6 @@
 <img align="center" alt="CI/CD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
 <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 <img align="center" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
-
-<br>
-
-### 💻 **Operating Systems**
 <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 <img align="center" alt="iOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg">
@@ -96,19 +83,6 @@
     </td>
   </tr>
 </table>
-
-##
-
-<b>🚀 **Projects**</b><br><br>
-
-<div align="center">
-  <a href="https://trackplacestech.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/TrackPlaces-E-commerce%20Tools-FF6B35?style=for-the-badge&logo=shopify&logoColor=white">
-  </a>
-  <a href="https://metrionapp.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Metrion-App-4CAF50?style=for-the-badge&logo=android&logoColor=white">
-  </a>
-</div><br>
 
 ##
 
