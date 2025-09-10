@@ -86,5 +86,4 @@
 
 ##
 
-<i>Code with purpose, clean architecture, and a pinch of magic! ✨</i><br> <br>
-<img src="https://github.com/CaiuWare/assets/blob/main/fire-pixel.gif" width="220">
+<i>"We who are strong ought to bear with the failings of the weak and not to please ourselves." - Romans 15:1</i><br> <br>
