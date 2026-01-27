@@ -1,8 +1,30 @@
 ## Olá, sou Caio Vieira, Desenvolvedor Full Stack  
 
-Já desenvolvi e participei de projetos como **TrackPlaces**, **Metrion** e **TecSomobi**.<br>
-Tenho **5 anos de experiência** em aplicações web e domínio em **TypeScript, JavaScript, React, Next.js, Node.js** e **PostgreSQL**.<br>
+Minha formação em Análise e Desenvolvimento de Sistemas pela UNIP, aliada à experiência prática em projetos reais, permite-me oferecer um amplo espectro de competências técnicas, com foco em qualidade e escalabilidade.
 
+Back-end
+
+• Desenvolvimento com Node.js e Nest.js, incluindo APIs REST e GraphQL
+• Atuação com microsserviços, CI/CD e princípios SOLID
+• Experiência com AWS, Docker, Vitest e Postman
+• Testes unitários e de integração
+• Vivência em ambientes Linux e gestão de dependências com NPM, Yarn e PNPM
+• Experiência em sistemas em produção
+
+Front-end
+
+• Construção de interfaces com React e Next.js, incluindo Microfrontends
+• Desenvolvimento mobile com React Native
+• Domínio de HTML, CSS, JavaScript e TypeScript, com Fetch e Axios
+
+Banco de Dados
+
+• Desenvolvimento e otimização com PostgreSQL, Prisma, Oracle, SQL Server e SQLite
+
+Outros
+
+• Controle de versão com Git
+• Boas práticas de segurança em APIs
 
 
 ## 🧠 Stack Tecnológica
